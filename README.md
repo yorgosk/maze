@@ -1,13 +1,13 @@
 # maze
 
-# About
+## About
 
  A program capable of creating and solving Perfect Mazes and Braid Mazes built
  on the principles of functional programming. It was created as a project for
  the **Principles of Programming Languages** course, in the Fall semester of
  2016-2017 by **Agapiou Marinos** and **Kamaras Georgios**.
 
-# Sample run
+## Sample run
 
 ```
 Prelude> :l maze.hs
